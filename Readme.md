@@ -1,0 +1,1 @@
+First click on "Load More Items" button is causing an issue then it works correctly!
